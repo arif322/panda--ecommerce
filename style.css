@@ -1,6 +1,7 @@
 
 .container{
     margin-bottom: 100px;
+    padding: 10px 20px;
 }
 
 .orange-bg{
@@ -51,4 +52,24 @@
 
 .categories img{
     width: 100px;
+}
+
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px lightsalmon;
+}
+
+.card-group{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px lightsalmon;
+}
+
+#Subscribe h6{
+    color: gray;
+}
+
+footer{
+    text-align: center;
 }
