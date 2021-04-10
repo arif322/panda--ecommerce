@@ -24,3 +24,31 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 12px;
+
+}
+
+.cat1{
+    background-color: aqua;
+   
+}
+.cat2{
+    background-color: blue;
+ 
+}
+.cat3{
+    background-color: coral;
+    
+    
+}
+
+.categories h1{
+    color: whitesmoke;
+}
+
+.categories img{
+    width: 100px;
+}
